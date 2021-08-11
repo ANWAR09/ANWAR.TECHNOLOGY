@@ -1,0 +1,14 @@
+﻿.neonTextPrint {
+  color: #fff;
+  text-shadow:
+    /* White glow */
+    0 0 20px rgba(255,255,255,0.5),
+    0 0 10px #fff,
+    0 0 21px #fff,
+    /* Green glow */
+    0 0 42px #03dbec,
+    0 0 82px #03dbec,
+    0 0 92px #03dbec,
+    0 0 150px #03dbec,
+    0 0 201px #03dbec;
+}
